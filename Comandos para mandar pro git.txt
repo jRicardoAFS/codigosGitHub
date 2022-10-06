@@ -1,0 +1,7 @@
+git init
+git add .
+git commit -m "Algum testo sobre o trabalho"
+depois coloque o git remote
+git remote -v
+git push -f origin master (quando for Master)
+git push -u origin main (quando for Main)

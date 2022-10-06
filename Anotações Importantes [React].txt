@@ -1,0 +1,7 @@
+npx create-react-app [nome do projeto] --template typescript
+
+SRC: onde fica os codigos do servido (Node).
+
+logo ao baixar ir no public e deleter os 2 logo, 1 icon, manifest.json, logo.svg, react-app-env.d.ts, reportWebVitals.ts, setupTests.ts, App.test.tsx
+
+$ npm install react-router-dom@6

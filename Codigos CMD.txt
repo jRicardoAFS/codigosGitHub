@@ -1,0 +1,4 @@
+Recuperar pen drive : attrib -R -A -S -H /S /D
+Procurar E Corrigir erros no HD : chkdsk /r
+Escanear HD e corrigir arquivos do Windows : sfc /scannow
+Corrigir algumas coisas : dim /oline /cleanup-image /restorehealth

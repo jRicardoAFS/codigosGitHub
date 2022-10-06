@@ -1,0 +1,15 @@
+diskpart
+
+list disk
+
+select disk (número do disco)
+
+clean
+
+create partition primary
+
+format fs=(qualquer formato de pendrive) quick
+
+active
+
+assingn(apenas se quiser mudar a letra do pendrive)
